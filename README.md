@@ -16,6 +16,10 @@ A React-based shopping cart application that allows users to add items to their 
 ## Live Demo
 
 
+https://github.com/user-attachments/assets/f0b7566a-b65c-4a4a-b24a-d868fe887e6e
+
+
+
 ## Installation
 
 To run this project locally, follow these steps:

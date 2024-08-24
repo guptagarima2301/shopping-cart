@@ -13,6 +13,9 @@ A React-based shopping cart application that allows users to add items to their 
 - **React**: A JavaScript library for building user interfaces.
 - **Redux**: A state management library for managing app state.
 
+## Live Demo
+
+
 ## Installation
 
 To run this project locally, follow these steps:
